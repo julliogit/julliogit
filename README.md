@@ -1,4 +1,7 @@
-## Hi there 👋
+[![juliofisi@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](juliofisi@gmail.com)
+[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white/)](https://www.youtube.com/@chamacesa)
+
+![julliogit GitHub stats](https://github-readme-stats.vercel.app/api?username=julliogit&show_icons=true&theme=dracula)
 
 <!--
 **julliogit/julliogit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
